@@ -36,11 +36,7 @@ public interface UserRepository {
 
     void deletePostsByBookingId(Long userId);
 
-    void deleteReservationsByUserId(Long userId);
-
     User findByProviderId(String providerId);
-
-    void deleteBookingByUserId(Long userId);
 
     void deleteBookingByRoomId(Long userId);
 

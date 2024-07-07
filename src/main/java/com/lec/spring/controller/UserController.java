@@ -24,10 +24,7 @@ import java.util.List;
 @RequestMapping("/user")
 public class UserController {
 
-//    @Autowired
     private UserService userService;
-
-//    private UserValidator userValidator;
 
     @Autowired
     public void setUserService(UserService userService){
@@ -55,10 +52,7 @@ public class UserController {
             List<FieldError> errList = result.getFieldErrors();
 
             for (FieldError err : errList) {
-//                System.out.println("에러 확인");
-//                System.out.println(err);
                 redirectAttrs.addFlashAttribute("error_" + err.getField(), err.getCode());
-//                break;
             }
 
             return "redirect:register";
@@ -67,7 +61,6 @@ public class UserController {
         int cnt = userService.register(user);
         model.addAttribute("result", cnt);
         return page;
-
     }
 
 

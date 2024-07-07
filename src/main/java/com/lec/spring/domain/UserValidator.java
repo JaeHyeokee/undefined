@@ -61,13 +61,7 @@ public class UserValidator implements Validator {
             }
         }
 
-        // 에러코드 출력
-        // 비밀번호
-        // 전화번호
-        // TODO
-
         ValidationUtils.rejectIfEmptyOrWhitespace(errors, "username", "* 이름은 필수입니다.");
-//        ValidationUtils.rejectIfEmptyOrWhitespace(errors, "password", "비밀번호는 필수 입력값입니다.");
 
         String password = user.getPassword();
         if (password == null || password.trim().isEmpty()){
@@ -76,8 +70,6 @@ public class UserValidator implements Validator {
             errors.rejectValue("password", "* 비밀번호는 최소 하나 이상의 영문 대소문자, 숫자, 특수문자를 혼합하여 8~20자로 입력하여 주세요.");
         }
 
-
-        // 입력 password, re_password 가 동일한지 비교
         if (!user.getPassword().equals(user.getRe_password())) {
             errors.rejectValue("re_password", "* 비밀번호가 일치하지 않습니다.");
         }
