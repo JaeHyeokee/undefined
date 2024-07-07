@@ -28,8 +28,6 @@
 /*    margin: 0 auto;*/
 /*    width: 100%; !* 추가 *!*/
 
-/*}*/
-
 /*.table-container{*/
 /*    width: 100%; !* 추가 *!*/
 /*    overflow-x: auto; !* 추가 *!*/
@@ -82,6 +80,13 @@ main {
     border-top: 1px solid #F5F5F5;
 }
 
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 th, td {
     border-style: solid;
     border-width: 1px 0;
@@ -93,39 +98,53 @@ table{
     overflow: hidden;
     border-collapse: collapse;
     background-color: #fff;
+    width: 100%;
+    font-size: 17px;
 }
+
+thead {
+    background-color: #FC5185;
+    color: white;
+    border-radius: 5px;
+}
+
 .table-container {
     overflow-x: auto;
     margin: 20px 0;
 }
 
 #th1, #th2{
-    width: 40px;
+    width: 10%;
     text-align: center;
 }
 
 #th3{
-    width: 150px;
+    width: 20%;
     text-align: center;
 }
 
 #th4{
-    width: 50px;
+    width: 20%;
     text-align: center;
 }
 
 #th5{
-    width: 100px;
+    width: 15%;
     text-align: center;
 }
 
 #th6{
-    width: 40px;
+    width: 15%;
     text-align: center;
 }
 
 #th7{
-    width: 50px;
+    width: 10%;
+    text-align: center;
+}
+
+#th8{
+    width: 10%;
     text-align: center;
 }
 
@@ -144,6 +163,7 @@ button {
     margin: 1px;
     text-align: center;
     align-items: center;
+    color: white;
 }
 
 button:hover {

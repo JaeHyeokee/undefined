@@ -34,8 +34,24 @@
     color: #FC5185;
 }
 
+.provider-menu-pc p {
+    font-size: 17px;
+}
+
 .provider-menu-icon {
     height: 30px;
     width: 30px;
     margin-right: 30px;
+}
+
+.active #prov-booking-list-btn {
+    content: url('../../../image/mypage/provider/ProvBookingListActive.png');
+}
+
+.active #prov-lodging-btn {
+    content: url('../../../image/mypage/provider/ProvLodgingListActive.png');
+}
+
+.active #prov-room-btn {
+    content: url('../../../image/mypage/provider/ProvRoomListActive.png');
 }

@@ -11,7 +11,7 @@
 
 <div class="container" th:each="post : ${userPostUpdate}">
     <!-- 좌측 네비게이션 메뉴 -->
-    <th:block th:insert="~{mypage/customer/NavMenu::nav-menu}"></th:block>
+    <th:block th:insert="~{mypage/customer/NavMenu::nav-menu('c')}"></th:block>
     <div>
         <h2 id="body-head">후기 수정</h2>
         <form th:action="@{/mypage/customer/PostUpdate}" method="post" onsubmit="validateForm()">

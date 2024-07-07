@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="ko" xmlns:th="http://www.thymeleaf.org">
-<th:block th:fragment="prov-nav-menu">
+<th:block th:fragment="prov-nav-menu(activePage)">
     <link rel="stylesheet" type="text/css" th:href="@{/css/mypage/provider/ProvNavMenu.css}">
 
     <!-- PC 버전 -->
     <nav class="provider-menu-pc">
-        <a class="active" th:href="@{/mypage/provider/ProvBookingList}">
-            <img th:src="@{/image/mypage/provider/BookingList.png}" alt="" class="provider-menu-icon">
+        <a th:href="@{/mypage/provider/ProvBookingList}" th:classappend="${activePage == 'a' ? 'active' : ''}">
+            <img th:src="@{/image/mypage/provider/ProvBookingList.png}" alt="" class="provider-menu-icon" id="prov-booking-list-btn">
             <p>예약 관리</p>
         </a>
 
-        <a th:href="@{/mypage/provider/provlodginglist}">
-            <img th:src="@{/image/mypage/provider/Lodging.png}" alt="" class="provider-menu-icon">
+        <a th:href="@{/mypage/provider/provlodginglist}" th:classappend="${activePage == 'b' ? 'active' : ''}">
+            <img th:src="@{/image/mypage/provider/ProvLodgingList.png}" alt="" class="provider-menu-icon" id="prov-lodging-btn">
             <p>숙소 정보</p>
         </a>
 
-        <a class="active" th:href="@{'/mypage/provider/ProvRoomList/' + ${user.userId}}">
-            <img th:src="@{/image/mypage/provider/Room.png}" alt="" class="provider-menu-icon">
+        <a th:href="@{'/mypage/provider/ProvRoomList/' + ${user.userId}}" th:classappend="${activePage == 'c' ? 'active' : ''}">
+            <img th:src="@{/image/mypage/provider/ProvRoomList.png}" alt="" class="provider-menu-icon" id="prov-room-btn">
             <p>객실 정보</p>
         </a>
     </nav>

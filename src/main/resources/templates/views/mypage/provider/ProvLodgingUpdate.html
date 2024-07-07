@@ -12,7 +12,7 @@
 <th:block th:insert="~{common/Header::header}"></th:block>
 <main>
     <!-- 좌측 네비게이션 메뉴 -->
-    <th:block th:insert="~{mypage/provider/ProvNavMenu::prov-nav-menu}"></th:block>
+    <th:block th:insert="~{mypage/provider/ProvNavMenu::prov-nav-menu('b')}"></th:block>
     <section class="lodging-info">
         <h1>숙소 수정</h1>
         <form id="updateForm" method="post" th:action="@{/mypage/provider/updateLodging}">
