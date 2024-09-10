@@ -38,7 +38,7 @@
 ## 👥 팀 소개
 | 이재혁(팀장) | 임동준 | 임예나 | 정준영 | 최영재 | 최은정 |                                                   
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| <img width="160px" src="https://avatars.githubusercontent.com/u/93297796?v=4"/> | <img width="160px" src="https://i.postimg.cc/KvvxBxsg/image.jpg"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/93297796?v=4"/> | <img width="160px" src="https://i.postimg.cc/DwRT9sfq/image.jpg"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/93297796?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/93297796?v=4"/> |
+| <img width="160px" src="https://avatars.githubusercontent.com/u/93297796?v=4"/> | <img width="160px" src="https://i.postimg.cc/KvvxBxsg/image.jpg"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/170907921?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/103237297?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/170908102?v=4"/> | <img width="160px" src="https://avatars.githubusercontent.com/u/81670561?v=4"/> |
 | [@Jaehyeok](https://github.com/JaeHyeokee) | [@Dongjoon](https://github.com/leemdongjoon2267) | [@Yena](https://github.com/rrynjulie) | [@Junyeong](https://github.com/jeongjunyeong) | [@Yeongjae](https://github.com/yeongjae0113) | [@Eunjeong](https://github.com/eunjeong0911) |
 
 ## 🙋‍♂️ 역할 및 기여도
