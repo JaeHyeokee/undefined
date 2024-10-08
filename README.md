@@ -93,7 +93,7 @@
 
 | 숙박 예약 |
 | :-------------------------------------------: |
-| <img width="400" alt="숙박 예약" src="https://i.postimg.cc/Wzt0H5yS/1.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/1RYGqZgd/2.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/02MpGHDy/4.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/5yG8dwdJ/5.png"/> |
+| <img width="25%" alt="숙박 예약" src="https://i.postimg.cc/Wzt0H5yS/1.png"/> <img width="25%" alt="숙박 예약" src="https://i.postimg.cc/1RYGqZgd/2.png"/> <img width="25%" alt="숙박 예약" src="https://i.postimg.cc/02MpGHDy/4.png"/> <img width="25%" alt="숙박 예약" src="https://i.postimg.cc/5yG8dwdJ/5.png"/> |
 | 승차권 조회 페이지에서는 있습니다. |
 
 | 승차권 조회 |
