@@ -52,7 +52,7 @@
 | 최은정 | - 🎨 JavaScript를 이용한 중복 처리<br>- 💾 예약 CRUD 구현<br>- 📊 ERD 설계|
 
 ## 📊 ERD (Entity-Relationship Diagram)
-![ERD](ERD 사진 링크)
+![ERD](https://postimg.cc/qtYcLF8t)
 
 프로젝트의 데이터베이스는 위와 같은 ERD를 기반으로 설계되었습니다. 
 
