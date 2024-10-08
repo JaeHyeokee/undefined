@@ -91,6 +91,11 @@
 | <img alt="메인" src="https://i.postimg.cc/kGdP7knT/image.png"/> | <img alt="로그인_회원가입" src="https://i.postimg.cc/y6hwFp6z/image.png"/> |
 | 사용자는 메인 페이지에서 숙박 예약, 승차권 조회, 회원 서비스 이용을 위해 해당 페이지에 접근할 수 있습니다. 또한, 숙소의 테마별 실시간 랭킹을 확인할 수 있습니다. | 사용자는 회원 서비스를 이용하기 위해 이메일 회원 또는 소셜 회원을 선택해 가입하고 로그인 할 수 있습니다. |
 
+| 숙박 예약 |
+| :-------------------------------------------: |
+| <img width="400" alt="숙박 예약" src="https://i.postimg.cc/Wzt0H5yS/1.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/1RYGqZgd/2.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/02MpGHDy/4.png"/> <img width="400" alt="숙박 예약" src="https://i.postimg.cc/5yG8dwdJ/5.png"/> |
+| 승차권 조회 페이지에서는 있습니다. |
+
 | 승차권 조회 |
 | :-------------------------------------------: |
 | <img width="400" alt="승차권 조회" src=""/> |
