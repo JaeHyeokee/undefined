@@ -103,7 +103,7 @@
 
 | 마이페이지 및 후기 |
 | :-------------------------------------------: |
-| <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/k5KCx9Xv/1.png"/> <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/pXcPvq6z/2.png"/> <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/bwGpwk7M/3.png"/> <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/X7q0s9YJ/1.png"/> <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/hvyRStpc/2.png"/> <img width="49%" alt="승차권 조회" src="https://i.postimg.cc/Jn8LxgsV/4.png"/> |
+| <img width="49%" alt="마이페이지" src="https://i.postimg.cc/k5KCx9Xv/1.png"/> <img width="49%" alt="마이페이지" src="https://i.postimg.cc/pXcPvq6z/2.png"/> <img width="49%" alt="마이페이지" src="https://i.postimg.cc/bwGpwk7M/3.png"/> <img width="49%" alt="후기" src="https://i.postimg.cc/X7q0s9YJ/1.png"/> <img width="49%" alt="후기" src="https://i.postimg.cc/hvyRStpc/2.png"/> <img width="49%" alt="마이페이지" src="https://i.postimg.cc/Jn8LxgsV/4.png"/> |
 | 사용자는 마이페이지에서 본인이 예약한 숙소 내역과 작성한 후기, 좋아요 목록을 확인할 수 있습니다. 또한, 내 정보를 수정하거나 회원 탈퇴를 진행할 수 있습니다. 사용자는 숙박 예약 과정에서 원하는 숙소에 대한 후기 목록을 열람할 수 있습니다. |
 
 ## 🎉 프로젝트 결과 및 성과
