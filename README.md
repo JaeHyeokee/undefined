@@ -93,7 +93,7 @@
 
 | 숙박 예약 |
 | :-------------------------------------------: |
-| <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/Wzt0H5yS/1.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/1RYGqZgd/2.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/02MpGHDy/4.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/5yG8dwdJ/5.png"/> |
+| <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/Wzt0H5yS/1.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/1RYGqZgd/2.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/KzTBfHn6/3.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/02MpGHDy/4.png"/> <img width="49%" alt="숙박 예약" src="https://i.postimg.cc/5yG8dwdJ/5.png"/> |
 | 사용자는 키워드와 날짜, 인원 수를 입력해서 이에 맞는 검색 결과를 볼 수 있습니다. 또한, 이 중에 마음에 드는 숙소에 대한 상세 정보를 확인할 수도 있고, 최종적으로 숙박 예약을 할 수 있습니다. |
 
 | 승차권 조회 |
